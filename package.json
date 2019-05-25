@@ -9,7 +9,7 @@
     "start": "next start",
     "build": "next build",
     "start": "next start -p $PORT",
-    "heroku-postbuild": "npm run build",
+    "heroku-postbuild": "npm run build"
   },
   "keywords": [],
   "author": "",
