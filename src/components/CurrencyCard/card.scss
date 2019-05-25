@@ -1,0 +1,92 @@
+@import '../../styles/_var.scss';
+
+div.md7{
+  -ms-flex: 0 0 58.333%;
+  max-width: 58.333%;
+}
+
+div.md10{
+  -ms-flex: 0 0 83.333%;
+  max-width: 83.333%;
+}
+
+div.md11{
+  -ms-flex: 0 0 91.666%;
+  max-width: 91.666%;
+}
+
+div.md2{
+  -ms-flex: 0 0 16.6666%;
+  max-width: 16.666%;
+}
+
+div.md4{
+  -ms-flex: 0 0 33.333%;
+  max-width: 33.333%;
+}
+
+div.md1{
+  -ms-flex: 0 0 8.333%;
+  max-width: 8.333%;
+}
+
+div.md7, div.md4, div.md1, div.md2, div.md10, div.md11{
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding: 5px;
+}
+
+.row{
+  position: relative;
+  //padding: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+.cal_amount{
+  text-align: right;
+  font-family: "Tahoma", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.code{
+  color: $main_color;
+  font-weight: bold;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 20px;
+}
+.paper{
+  margin: 15px;
+}
+
+.attr{
+  display: block;
+  margin-left: 5px;
+  font-size: 12px;
+  font-style: italic;
+  color: #969696;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.center{
+  text-align: center;
+}
+
+.button_remove {
+  background-color: #F0F0F0;
+}
+
+.remove{
+  width: 30px;
+  height: 30px;
+  margin-top: 18px;
+}
+
+.remove:hover{
+  cursor: pointer;
+}

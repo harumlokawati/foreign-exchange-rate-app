@@ -1,0 +1,19 @@
+:global(body) {
+  min-height:100%;
+  margin: 0;
+  display: flex;
+  background-color: #f2f2f2;
+}
+
+:global(html) {
+  height:100%;
+}
+
+:global(#__next) {
+  width: 100%;
+}
+
+:global(.page_container){
+  overflow-y: hidden;
+  padding-top: 180px;
+}
