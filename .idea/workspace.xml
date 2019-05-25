@@ -2,106 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84557d72-785e-4d8b-a7ba-6268bf9bd8eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/b-dark.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/background-full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/background.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/aksesoris-perkakas.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/batu-akik.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/batu-cincin.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/batu-mulia-permata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/rough-bahan-batu-akik.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/buku/agama-kepercayaan.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/buku/buku.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/elektronik/elektronik.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/anak-laki-laki.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/anak-perempuan.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/anak-unisex.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/busana-muslim.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/couple.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/fashion.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/pria.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/wanita.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/food/bumbu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/food/food.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/handphone/handphone.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/alat-musik.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/hobi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/koleksi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/mainan.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/video-game.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/industrial/industrial.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/kamera/aksesoris-kamera.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/kamera/kamera.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/komputer/aksesoris.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/komputer/hardware.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/komputer/komputer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/main.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/mobil/mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/aksesoris-motor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/motor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/outwear-motor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/produk-perawatan-motor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/sparepart-motor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/badminton.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/basket.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/lari.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/olahraga.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/renang.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/sepakbola-futsal.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/tenis-meja.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/tenis.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/aksesoris-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/audio-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/eksterior-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/exhaust-system-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/interior-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/kaki-kaki-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/mesin-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/onderdil-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/produk-perawatan-mobil.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/perlengkapan-bayi/furniture.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/perlengkapan-bayi/makanan.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/perlengkapan-bayi/pakaian-bayi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/perlengkapan-bayi/perlengkapan-bayi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/personal-care/personal-care.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/personal-care/produk-kecantikan.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/rumah-tangga/alat-tulis.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/rumah-tangga/elektronik.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/rumah-tangga/furniture-interior.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/rumah-tangga/rumah-tangga.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/brake.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/drivetrain.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/equipment-tools.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/fork-suspension.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/frame.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/fullbike.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/outwear.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/saddle-seatpost.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/sepeda.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/steering.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/wheel-hub-rims-dll.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/bundle/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/_error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/dll_2011977376de5c4d4cfb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/styles.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/styles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/localhost_files/webpack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/minus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/remove.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sprite.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -153,17 +54,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state relative-caret-position="330">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="180">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -183,7 +84,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/round-delete-button.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -374,12 +275,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86754000" />
+    <option name="totallyTimeSpent" value="86772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="584" y="23" width="948" height="814" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987593" visible="true" weight="0.22653721" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987593" visible="true" weight="0.22653721" />
       <window_info id="Structure" order="1" sideWeight="0.5012407" side_tool="true" weight="0.22653721" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -391,7 +293,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16897507" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16897507" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -428,9 +330,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/bundle/json/buku/agama-kepercayaan.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bundle/json/buku/agama-kepercayaan.json" />
     <entry file="file://$PROJECT_DIR$/server/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -445,29 +345,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/bundle/json/batu-cincin/aksesoris-perkakas.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/bundle/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/bundle/json/main.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/localhost.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constants/currency/Common-Currency.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="1063" column="1" selection-end-line="1063" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bundle/json/batu-cincin/aksesoris-perkakas.json" />
+    <entry file="file://$PROJECT_DIR$/static/bundle/index.html" />
+    <entry file="file://$PROJECT_DIR$/static/bundle/json/main.json" />
+    <entry file="file://$PROJECT_DIR$/static/localhost.html" />
+    <entry file="file://$PROJECT_DIR$/src/constants/currency/Common-Currency.json" />
     <entry file="file://$PROJECT_DIR$/.next/server/static/development/pages/index.js.map">
       <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor">
@@ -566,9 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/b-dark.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/b-dark.jpg" />
     <entry file="file://$PROJECT_DIR$/src/components/CurrencyCard/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -701,50 +581,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        <state relative-caret-position="330">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/background-full.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/background.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/back.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/bg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/background-full.png" />
+    <entry file="file://$PROJECT_DIR$/static/background.jpeg" />
+    <entry file="file://$PROJECT_DIR$/static/back.png" />
+    <entry file="file://$PROJECT_DIR$/static/bg.png" />
     <entry file="file://$PROJECT_DIR$/static/coins.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/down.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/minus.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/remove.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/minus.png" />
+    <entry file="file://$PROJECT_DIR$/static/remove.png" />
     <entry file="file://$PROJECT_DIR$/static/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/sprite.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/sprite.png" />
     <entry file="file://$PROJECT_DIR$/static/round-delete-button.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
