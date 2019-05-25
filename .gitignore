@@ -2,4 +2,12 @@ node_modules/
 .next/
 *.log
 
-.idea/*
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/shelf
+.idea/misc.xml
+.idea/ForexApp.iml
+.idea/modules.xml
