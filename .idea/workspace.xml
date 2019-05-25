@@ -1,7 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84557d72-785e-4d8b-a7ba-6268bf9bd8eb" name="Default Changelist" comment="" />
+    <list default="true" id="84557d72-785e-4d8b-a7ba-6268bf9bd8eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/b-dark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/background-full.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/aksesoris-perkakas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/batu-akik.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/batu-cincin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/batu-mulia-permata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/batu-cincin/rough-bahan-batu-akik.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/buku/agama-kepercayaan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/buku/buku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/elektronik/elektronik.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/anak-laki-laki.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/anak-perempuan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/anak-unisex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/busana-muslim.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/couple.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/fashion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/pria.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/fashion/wanita.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/food/bumbu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/food/food.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/handphone/handphone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/alat-musik.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/hobi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/koleksi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/mainan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/hobi/video-game.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/industrial/industrial.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/kamera/aksesoris-kamera.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/kamera/kamera.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/komputer/aksesoris.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/komputer/hardware.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/komputer/komputer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/mobil/mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/aksesoris-motor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/motor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/outwear-motor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/produk-perawatan-motor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/motor/sparepart-motor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/badminton.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/basket.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/lari.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/olahraga.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/renang.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/sepakbola-futsal.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/tenis-meja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/olahraga/tenis.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/aksesoris-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/audio-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/eksterior-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/exhaust-system-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/interior-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/kaki-kaki-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/mesin-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/onderdil-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/onderdil-mobil/produk-perawatan-mobil.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/perlengkapan-bayi/furniture.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/perlengkapan-bayi/makanan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/perlengkapan-bayi/pakaian-bayi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/perlengkapan-bayi/perlengkapan-bayi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/personal-care/personal-care.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/personal-care/produk-kecantikan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/rumah-tangga/alat-tulis.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/rumah-tangga/elektronik.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/rumah-tangga/furniture-interior.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/rumah-tangga/rumah-tangga.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/brake.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/drivetrain.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/equipment-tools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/fork-suspension.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/frame.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/fullbike.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/outwear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/saddle-seatpost.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/sepeda.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/steering.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/json/sepeda/wheel-hub-rims-dll.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bundle/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/_error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/dll_2011977376de5c4d4cfb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/styles.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/localhost_files/webpack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sprite.png" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,27 +121,6 @@
               <caret line="127" column="25" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/actions/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reducers/forex.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,28 +151,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/constants/state/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="390">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -100,22 +162,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="34" column="72" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="72" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/static/coins.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/down.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/round-delete-button.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -135,6 +205,9 @@
       <find>ALL</find>
       <find>console.log</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,12 +247,12 @@
         <option value="$PROJECT_DIR$/src/constants/currency/index.js" />
         <option value="$PROJECT_DIR$/src/constants/state/index.js" />
         <option value="$PROJECT_DIR$/Dockerfile" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/actions/main.js" />
         <option value="$PROJECT_DIR$/src/reducers/forex.js" />
         <option value="$PROJECT_DIR$/src/api/forex.js" />
         <option value="$PROJECT_DIR$/src/components/page.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -189,6 +262,7 @@
     <option name="width" value="948" />
     <option name="height" value="814" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -231,6 +305,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sagas" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ForexApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ForexApp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -238,6 +317,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -289,16 +369,15 @@
       <workItem from="1558525973886" duration="11000" />
       <workItem from="1558689134331" duration="2941000" />
       <workItem from="1558705670982" duration="13544000" />
-      <workItem from="1558764976390" duration="26525000" />
+      <workItem from="1558764976390" duration="26748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86531000" />
+    <option name="totallyTimeSpent" value="86754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="584" y="23" width="948" height="814" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987593" visible="true" weight="0.22653721" />
       <window_info id="Structure" order="1" sideWeight="0.5012407" side_tool="true" weight="0.22653721" />
@@ -342,49 +421,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/background.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="1139" column="8" selection-start-line="1139" selection-start-column="8" selection-end-line="1139" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constants/api/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/bundle/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/bundle/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/_app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/sprite.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/about.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -431,9 +467,6 @@
           <caret line="1063" column="1" selection-end-line="1063" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/logo.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.next/server/static/development/pages/index.js.map">
       <provider editor-type-id="sourcemapFileViewerProvider" />
@@ -536,12 +569,6 @@
     <entry file="file://$PROJECT_DIR$/static/b-dark.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/back.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/down.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CurrencyCard/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -625,13 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/actions/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-182">
@@ -681,10 +701,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="390">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/background-full.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/background.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/back.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/coins.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/down.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/minus.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/remove.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/sprite.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/round-delete-button.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
