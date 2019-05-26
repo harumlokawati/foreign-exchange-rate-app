@@ -120,7 +120,7 @@ class Page extends Component {
                         </Button>
                         }
                         {onAdd &&
-                        <FormSymbol label={"symbol"}
+                        <FormSymbol label={"currency"}
                                     value={addSymbolValue}
                                     onChange={(event) => this.handleChange(event)}
                                     options={this.getOptions()}
