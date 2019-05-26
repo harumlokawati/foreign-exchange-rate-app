@@ -2,6 +2,7 @@ node_modules/
 .next/
 *.log
 
+.idea
 
 # Created by https://www.gitignore.io/api/webstorm
 # Edit at https://www.gitignore.io/?templates=webstorm
