@@ -15,7 +15,12 @@ module.exports = {
             {
                 test: /\.css$/,
                 use: ["babel-loader"]
+            },
+            {
+                test: /\.(png|jpg)$/,
+                loader: ["url-loader"]
             }
+
         );
         config.module.config.push({
             components: path.resolve(__dirname, './src/components')

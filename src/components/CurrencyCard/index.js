@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 import {Paper} from '@material-ui/core';
 import '../../styles/layout.scss';
 import styles from './card.scss';
-
+// import removeIcon from '../../../static/round-delete-button.png'
 
 class CurrencyCard extends Component {
     render() {
@@ -26,7 +26,7 @@ class CurrencyCard extends Component {
                         </div>
                     </div>
                     <div className={`${styles.md1} ${styles.center} ${styles.button_remove}`}>
-                        <img src="../../../static/round-delete-button.png" className={styles.remove} onClick={this.props.onRemove}/>
+                        <img src="/static/round-delete-button.png" className={styles.remove} onClick={this.props.onRemove}/>
                     </div>
                 </div>
             </Paper>

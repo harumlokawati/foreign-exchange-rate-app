@@ -92,13 +92,12 @@ div.md7, div.md4, div.md1, div.md6{
 }
 
 .currency{
-  font-size: 14px;
+  font-size: 12px;
   font-style: italic;
-  margin-bottom: 5px;
 }
 
 .base{
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   color: #5270FF;
 }
@@ -125,7 +124,6 @@ div.md7, div.md4, div.md1, div.md6{
   width:25px;
   height:25px;
   float: left;
-  margin-left: 5px;
   margin-top: 10px;
   //display: inline-block;
 }
@@ -142,4 +140,9 @@ div.md7, div.md4, div.md1, div.md6{
   border: 2px solid $main_color;
   text-align: center;
   vertical-align: middle;
+}
+
+input{
+  background-color: transparent !important;
+  border: none !important;
 }

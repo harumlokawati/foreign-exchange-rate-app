@@ -30,11 +30,15 @@ class Page extends Component {
         dispatch(loadRate(symbols, base))
     };
 
-    static async getInitialProps(props) {
-        const { store} = props.ctx;
-        if (!store.getState().base) {
+    static async getInitialProps({ Component, ctx }) {
+        let pageProps = {};
+
+        if (Component.getInitialProps) {
+            pageProps = await Component.getInitialProps(ctx);
         }
-    };
+
+        return { pageProps };
+    }
 
 
     handleChangeAmount = event => {

@@ -8,6 +8,7 @@ import rootSaga from '../sagas';
 const sagaMiddleware = createSagaMiddleware();
 
 function initStore (preloadState = initialState) {
+    console.log(preloadState)
     const store = createStore(
         rootReducers,
         preloadState,
