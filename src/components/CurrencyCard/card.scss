@@ -78,15 +78,26 @@ div.md7, div.md4, div.md1, div.md2, div.md10, div.md11{
 }
 
 .button_remove {
-  background-color: #F0F0F0;
+  border-left: 1px solid #E6E6E6;
+  right:0;
 }
 
 .remove{
-  width: 30px;
-  height: 30px;
-  margin-top: 18px;
+  width: 25px;
+  height: 25px;
+  max-height: 90%;
+  max-width: 95%;
+  margin-top: 20px;
 }
 
 .remove:hover{
   cursor: pointer;
+}
+
+.currency_result{
+  background-color: white;
+}
+
+.card{
+  background-color: #F0F0F0;
 }

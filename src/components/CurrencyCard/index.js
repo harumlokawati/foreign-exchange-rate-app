@@ -7,8 +7,8 @@ class CurrencyCard extends Component {
     render() {
         return (
             <Paper className={styles.paper}>
-                <div className={styles.row}>
-                    <div className={`${styles.md11}`}>
+                <div className={`${styles.row} ${styles.card}`}>
+                    <div className={`${styles.md11} ${styles.currency_result}`}>
                         <div className={` ${styles.row}`}>
                             <div className={`${styles.md1} ${styles.code}`}>
                                 {this.props.base}
