@@ -1,5 +1,5 @@
 import React from 'react';
-import { connect } from 'react-redux';
+// import { connect } from 'react-redux';
 
 import Page from '../src/components/page';
 
@@ -12,4 +12,4 @@ class Index extends React.Component {
     }
 }
 
-export default connect()(Index);
+export default (Index);

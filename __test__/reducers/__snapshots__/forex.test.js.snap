@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`forex_reducer ADD_SYMBOL returns the correct state 1`] = `
+Object {
+  "amount": 10,
+  "base": "USD",
+  "error": "",
+  "loading": false,
+  "rates": Object {},
+  "symbols": Array [
+    "EUR",
+  ],
+}
+`;
+
+exports[`forex_reducer INITIAL_STATE is correct 1`] = `
+Object {
+  "amount": 10,
+  "base": "USD",
+  "error": "",
+  "loading": false,
+  "rates": Object {},
+  "symbols": Array [],
+}
+`;
+
+exports[`forex_reducer LOAD_RATE_SUCCESS returns the correct state 1`] = `
+Object {
+  "amount": 10,
+  "base": "USD",
+  "error": "",
+  "loading": false,
+  "rates": Object {
+    "GBP": 0.88318,
+    "USD": 1.1187,
+  },
+  "symbols": Array [],
+}
+`;
+
+exports[`forex_reducer REMOVE_SYMBOL returns the correct state 1`] = `
+Object {
+  "amount": 105,
+  "base": "USD",
+  "error": "",
+  "loading": false,
+  "rates": Object {},
+  "symbols": Array [
+    "EUR",
+  ],
+}
+`;
+
+exports[`forex_reducer SET_AMOUNT returns the correct state 1`] = `
+Object {
+  "amount": 105,
+  "base": "USD",
+  "error": "",
+  "loading": false,
+  "rates": Object {},
+  "symbols": Array [],
+}
+`;
+
+exports[`forex_reducer SET_BASE returns the correct state 1`] = `
+Object {
+  "amount": 10,
+  "base": "JPY",
+  "error": "",
+  "loading": false,
+  "rates": Object {},
+  "symbols": Array [],
+}
+`;
+
+exports[`forex_reducer SET_LOADING returns the correct state 1`] = `
+Object {
+  "amount": 10,
+  "base": "USD",
+  "error": "",
+  "loading": true,
+  "rates": Object {},
+  "symbols": Array [],
+}
+`;

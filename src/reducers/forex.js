@@ -1,7 +1,7 @@
 import * as actions from '../constants/actions';
 import {initialState} from '../constants/state';
 
-const forexState = initialState.get('app')
+const forexState = initialState.app
 
 const forexReducers = (state = forexState, action) => {
     const {payload = {}} = action

@@ -10,7 +10,7 @@ class Header extends Component {
         return (
             <header className={styles.header}>
                 <img className={styles.logo} src="../../../static/logo.png"/>
-                <div className={styles.subtitle}>See your money value here</div>
+                <div id="subtitle" className={styles.subtitle}>See your money value here</div>
                 <div className={styles.option}>
                     <div className={styles.row}>
                         <div className={styles.md1}>

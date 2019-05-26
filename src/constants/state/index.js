@@ -1,6 +1,4 @@
-import { fromJS } from "immutable";
-
-export const initialState = fromJS({
+export const initialState = {
     app:{
             base: 'USD',
             amount: 10,
@@ -10,4 +8,3 @@ export const initialState = fromJS({
             loading: false
         }
     }
-);

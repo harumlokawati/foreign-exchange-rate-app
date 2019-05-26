@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`main actions load rate Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "base": "USD",
+      "symbols": Array [
+        "EUR",
+      ],
+    },
+    "type": "LOAD_RATE",
+  },
+]
+`;
+
+exports[`main actions load rate success Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "data": Object {
+        "base": "EUR",
+        "date": "2019-05-24",
+        "rates": Object {
+          "GBP": 0.88318,
+          "USD": 1.1187,
+        },
+      },
+    },
+    "type": "LOAD_RATE_SUCCESS",
+  },
+]
+`;
+
+exports[`main actions set add symbol Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "symbol": "IDR",
+    },
+    "type": "ADD_SYMBOL",
+  },
+]
+`;
+
+exports[`main actions set amount Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "amount": 105,
+    },
+    "type": "SET_AMOUNT",
+  },
+]
+`;
+
+exports[`main actions set base Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "base": "EUR",
+    },
+    "type": "SET_BASE",
+  },
+]
+`;
+
+exports[`main actions set loading Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "loading": true,
+    },
+    "type": "SET_LOADING",
+  },
+]
+`;
+
+exports[`main actions set remove symbol Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "symbol": "IDR",
+    },
+    "type": "REMOVE_SYMBOL",
+  },
+]
+`;
