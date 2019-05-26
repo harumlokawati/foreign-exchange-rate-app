@@ -206,15 +206,6 @@ export const currency = {
         "code": "THB",
         "name_plural": "Thai baht"
     },
-    "TND": {
-        "symbol": "DT",
-        "name": "Tunisian Dinar",
-        "symbol_native": "د.ت.‏",
-        "decimal_digits": 3,
-        "rounding": 0,
-        "code": "TND",
-        "name_plural": "Tunisian dinars"
-    },
     "TRY": {
         "symbol": "TL",
         "name": "Turkish Lira",
