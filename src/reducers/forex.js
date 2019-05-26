@@ -11,6 +11,11 @@ const forexReducers = (state = forexState, action) => {
                 ...state,
                 ...{error: payload.error}
             };
+        case actions.SET_LOADING:
+            return {
+                ...state,
+                ...{loading: payload.loading}
+            };
         case actions.LOAD_RATE_SUCCESS:
             return {
                 ...state,

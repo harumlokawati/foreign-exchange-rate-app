@@ -6,7 +6,8 @@ export const initialState = fromJS({
             amount: 10,
             symbols: [],
             rates: {},
-            error: ''
+            error: '',
+            loading: false
         }
     }
 );

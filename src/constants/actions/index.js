@@ -5,3 +5,4 @@ export const SET_AMOUNT = 'SET_AMOUNT';
 export const SET_BASE = 'SET_BASE'
 export const ADD_SYMBOL = 'ADD_SYMBOL';
 export const REMOVE_SYMBOL = 'REMOVE_SYMBOL';
+export const SET_LOADING= 'SET_LOADING';

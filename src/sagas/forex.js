@@ -1,7 +1,7 @@
 import { all, call, put, takeLatest } from 'redux-saga/effects';
 
 import * as actions from '../constants/actions';
-import { failure, loadRateSuccess } from '../actions/main';
+import { failure, loadRateSuccess, setLoading } from '../actions/main';
 import { fetchExchangeRateData } from '../api/forex';
 
 function* loadRateSaga(request) {
@@ -16,8 +16,10 @@ function* loadRateSaga(request) {
                 s += ','
             }
         }
+        yield put(setLoading(true))
         const res = yield call(fetchExchangeRateData, s, base);
         yield put(loadRateSuccess(res));
+        yield put(setLoading(false))
     } catch (err) {
         yield put(failure(err));
     }

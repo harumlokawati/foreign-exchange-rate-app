@@ -2,7 +2,6 @@ import React, {Component} from 'react'
 import {Paper} from '@material-ui/core';
 import '../../styles/layout.scss';
 import styles from './card.scss';
-// import removeIcon from '../../../static/round-delete-button.png'
 
 class CurrencyCard extends Component {
     render() {

@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import {Menu, MenuItem, Paper} from '@material-ui/core';
+import {Menu, MenuItem} from '@material-ui/core';
 import '../../styles/layout.scss';
 import styles from './iconmenu.scss';
 

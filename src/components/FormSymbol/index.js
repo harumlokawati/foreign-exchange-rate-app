@@ -1,12 +1,11 @@
 import React, {Component} from 'react'
 import {TextField, MenuItem, Button, FormControl, createMuiTheme} from '@material-ui/core';
-import styles from "./form.scss";
 
 class FormSymbol extends Component {
 
     render() {
         return (
-            <div className={styles.form_symbol}>
+            <div>
                 <FormControl variant="outlined" style={{width: '150px', paddingLeft: '15px', paddingRight: '15px'}}>
                     <TextField
                         name={"symbol-input"}

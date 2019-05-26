@@ -50,3 +50,10 @@ export function removeSymbol(symbol) {
     }
 }
 
+export function setLoading(loading) {
+    return {
+        type: actions.SET_LOADING,
+        payload: {loading}
+    }
+}
+
